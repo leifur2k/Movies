@@ -1,3 +1,1 @@
-Android - Java
-RecyclerView - MVVM - LiveData - RxJava
-Retrofit - Room - Glide
+Android - Java - RecyclerView - MVVM - LiveData - RxJava - Retrofit - Room - Glide
